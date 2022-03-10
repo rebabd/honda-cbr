@@ -1,0 +1,72 @@
+.bg-header{
+    background-color: #264653;
+    width: 100%;
+    height: 100%;
+}
+.login-btn{
+    background-color: #E76F51;
+    width: 91px;
+    height: 44px;
+    color:  #FFFFFF;
+    padding: 0px;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+}
+.text-color{
+    color: #E0E0E0;
+}
+.main-btn{
+    background-color: #E76F51;
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    color: #FFFFFF;
+}
+ /* main section style  */
+ .hr{
+     width: 55px;
+     height: 1px;
+     background-color: red;
+     margin-left: 47%;
+ }
+
+ .happy-card{
+     box-shadow: 0px 0px 1px;
+     padding: 20px 30px;
+     text-align: center;
+     margin: 10px;
+ }
+ .happy-card img{
+     padding: 10px;
+ }
+ .happy img{
+     border-radius: 50%;
+ }
+ .fa-star{
+    color: #E77C40;
+ }
+ a{
+     text-decoration: none;
+ }
+.footer-side{
+    padding: 40px 0px;
+}
+ .footer li{
+    list-style: none;
+    font-weight: 400;
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 0px;
+ }
+ .app{
+     font-size: 10px;
+     font-weight: 400;
+ }
+
+ @media only screen and (max-width: 688px) {
+     #mt-5{
+         margin-top: 0px !important;
+     }
+ }
